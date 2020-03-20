@@ -7,7 +7,13 @@ Ferramenta OpenSource para analize, compilação e simulação de arquivos .vhdl
  
  GTKWAVE http://gtkwave.sourceforge.net/
 
-## Executando o arquivo compila.sh no linux
+## Executando o arquivo compila.sh no terminal linux
 ```bash
  ./compila.sh
 ```
+Apos finalizar, abrir o arquivo de ondas.
+
+```bash
+ gtkwave simulação.ghw
+```
+
