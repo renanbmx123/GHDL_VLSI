@@ -6,6 +6,11 @@ Ferramenta OpenSource para analize, compilação e simulação de arquivos .vhdl
  GHDL https://ghdl.readthedocs.io/en/latest/index.html<Paste>
  
  GTKWAVE http://gtkwave.sourceforge.net/
+ 
+ Executar script de instalação para instalar ambas ferramenteas.
+ ```chmod a+x install.sh
+ ./install.sh
+ ```
 
 ## Executando o arquivo compila.sh no terminal linux
 ```bash
