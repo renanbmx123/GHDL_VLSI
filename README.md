@@ -8,10 +8,12 @@ Ferramenta OpenSource para analize, compilação e simulação de arquivos .vhdl
  GTKWAVE http://gtkwave.sourceforge.net/
  
  Executar script de instalação para instalar ambas ferramenteas.
- ```chmod a+x install.sh
- ./install.sh
+ ```bash
+  chmod a+x install.sh
  ```
-
+ ```bash
+ ./install.sh
+```
 ## Executando o arquivo compila.sh no terminal linux
 ```bash
  ./compila.sh
